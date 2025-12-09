@@ -190,9 +190,13 @@ This is a portfolio project. Feedback and suggestions are welcome!
 
 ## 📧 Contact
 
-[Your Name]  
-[Your Email]  
-[LinkedIn Profile]
+Eduardo Yong
+
+actlyong@gmail.com
+
+https://www.linkedin.com/in/actlyong/
+
+https://github.com/actlyong
 
 ---
 
